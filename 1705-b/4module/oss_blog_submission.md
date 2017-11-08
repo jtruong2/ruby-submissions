@@ -22,7 +22,7 @@
 
 ## Jimmy Truong
 
-* Link to Blog Post: 
+* Link to Blog Post: https://gist.github.com/jtruong2/072ffa48c9edc4841ac044864c2cff56
 
 ## Katie Keel
 
